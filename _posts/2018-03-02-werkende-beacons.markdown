@@ -22,3 +22,5 @@ Per verdiep is er een plattegrond te zien waar de beacons op aangegeven zijn, de
 Je kan de lijsten exporteren naar een excel bestand, per verdiep of alle verdiepen samen.
 
 ![BeaconsListScreenshotExporteren](https://i.imgur.com/q8gB676m.png) ![BeaconsListScreenshotExcel](https://i.imgur.com/agVGsuTm.png)
+
+<a target="_blank" href="https://github.com/lab9k/Beacons/tree/master/Android/BeaconsList">GitHub</a>
