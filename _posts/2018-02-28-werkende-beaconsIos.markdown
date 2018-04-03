@@ -16,4 +16,5 @@ De applicatie duidt per verdieping aan welke beacons er hangen. Doormiddel van e
 
 De lijst geeft het UUID, het OCTA-ID en de RSSI-waarde van de beacons weer. Op deze manier zijn de beacons makkelijk terug te vinden op de plattegrond van de bibliotheek a.d.h.v hun OCTA-ID. 
 
+<a target="_blank" href="https://github.com/lab9k/Beacons/tree/master/iOS/De%20Krook">GitHub</a>
 
