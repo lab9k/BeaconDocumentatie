@@ -13,4 +13,4 @@ author: jeremie_van_de_walle
 4. Navigatie: Een kaart tonen waar een bezoeker zich bevindt. Rekening houdend met een nauwkeurigheid van 5 tot 10m
 5. Locatie sharing: Studenten die samen willen blokken in de Krook kunnen hun huidige locatie doorsturen naar hun vrienden. Bv: “Hier zijn nog 3 plaatsen vrij, kom gerust af. [Locatie]”.
 6. Warm-koud game: Kindjes kunnen aan de hand van een applicatie zoeken naar een boek/voorwerp.
-7. Gids: Een applicatie ter vervanging van een fysiek persoon
+7. Gids: Een applicatie ter vervanging van een fysiek persoon.

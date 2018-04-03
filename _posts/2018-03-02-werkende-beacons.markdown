@@ -17,7 +17,6 @@ De applicatie duidt per verdieping aan welke beacons er hangen. Door middel van 
 De lijst geeft het UUID en het OCTA-ID van de beacons weer. Op deze manier zijn de beacons makkelijk terug te vinden op de plattegrond van de bibliotheek. 
 
 Per verdieping is er een plattegrond te zien waar de beacons op aangegeven zijn, de bol is rood of groen naarmate de werking van de beacon.
- 
 
 Je kan de lijsten exporteren naar een excel bestand, per verdieping of alle verdiepingen samen.
 

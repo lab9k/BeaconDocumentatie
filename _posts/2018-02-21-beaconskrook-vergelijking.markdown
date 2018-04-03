@@ -13,7 +13,7 @@ We hebben een lijst van alle beacons met een octa-ID en een digipolis-ID. Deze s
 De twee laatste tekens van het UUID van de beacons is de hexadeciamele waarde van het octa-ID dat in de lijst staat en ook op plattegronden van de bibliotheek. Op deze manier weten we welke beacon op welke plek hangt. <br>
 De beacons hangen redelijk random op in de bibliotheek, we zien geen patroon. Sommige beacons lijken er ook gewoon nog tussengeplaatst op het einde. Ze hangen ongeveer op een afstand van 3 meter van elkaar.</p>
 
-<a target="_blank" href="https://github.com/lab9k/BeaconDocumentatie/blob/gh-pages/DeKrook_OCTA-ID.zip">DOCUMENTEN KROOK</a>
+<a target="_blank" href="https://github.com/lab9k/BeaconDocumentatie/blob/gh-pages/DeKrook_OCTA-ID.zip">DOCUMENTEN KROOK</a> Deze documenten hebben we ter beschikking over de beacons in de Krook. (De lijst met werkende beacons komt niet overeen met de realiteit).
 
 <b>UUID</b>
 <p>Alle beacons hebben een verschillend UUID, wat anders is dan algemeen aangegeven wordt. Maar aangezien ze nog andere dingen willen doen of aansluiten op deze beacons hebben ze voor deze aanpak gekozen.</p>
