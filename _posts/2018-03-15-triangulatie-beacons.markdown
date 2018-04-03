@@ -12,7 +12,7 @@ author: lotte_jespers
 <p>Eens we de afstand weten tot 3 beacons, kan triangulatie gebruikt worden om de x- en y-coördinaten te berekenen van dat object. Drie cirkels, met als straal de afstand tot die beacon, worden getrokken rond het midden van elke beacon. De triangulatie locatie is het zwaartepunt van de driehoek ABC, die bestaat uit de kruispunten van de drie cirkels. Dit zijn dan de x- en y-coördinaten van het object. </p>
 ![Triangulation](https://i.imgur.com/bekuGpUm.png )
 
-<P>Aangezien we de plattegronden van de bibliotheek hebben, bepaalden we van elke beacon zijn positie (x- en y-coördinaat). Met behulp van <a href="https://github.com/lemmingapex/Trilateration">deze android library </a>  kunnen we dan met de coördinaten van de gedetecteerde beacons en de afstand tot die beacons, het punt bepalen waar men op dat ogenblik staat.</p>
+<P>Aangezien we de plattegronden van de bibliotheek hebben, bepaalden we van elke beacon zijn positie (x- en y-coördinaat). Met behulp van <a href="https://github.com/lemmingapex/Trilateration" target="_blank" >deze android library </a>  kunnen we dan met de coördinaten van de gedetecteerde beacons en de afstand tot die beacons, het punt bepalen waar men op dat ogenblik staat.</p>
 
 <b>Testapplicatie: verdieping -2</b>
 <p>Er werd een test applicatie geschreven voor verdieping -2 (de kleinste verdieping).
