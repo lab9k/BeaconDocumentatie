@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Applicatie: weten op welk verdiep je bent"
+title:  "Applicatie: weten op welke verdieping je bent"
 date:   2018-02-28 12:07:27 +0200
 categories: android
 author: lotte_jespers
 ---
-# Weten op welk verdiep je bent
+# Weten op welke verdieping je bent
 
 ![BeaconsVerdiepTestScreenshot](https://i.imgur.com/8WlYkQLm.png)  ![BeaconsVerdiepTestScreenshot](https://i.imgur.com/tmXwNsEm.png)
 

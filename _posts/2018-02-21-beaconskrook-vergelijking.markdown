@@ -10,7 +10,7 @@ author: lotte_jespers
 <b>Beacons</b>
 <p>In de bibliotheek hangen 237 beacons. 
 We hebben een lijst van alle beacons met een octa-ID en een digipolis-ID. Deze stemmen op het eerste zicht niet overeen met het UUID dat de beacons uitzenden. <br>
-De twee laatste tekens van het UUID van de beacons is de hexadeciamele waarde van het octa-ID dat in de lijst staat en ook op plattegronden van de bibliotheek. Op deze manier weten we welke beacons op welke plek hangt. <br>
+De twee laatste tekens van het UUID van de beacons is de hexadeciamele waarde van het octa-ID dat in de lijst staat en ook op plattegronden van de bibliotheek. Op deze manier weten we welke beacon op welke plek hangt. <br>
 De beacons hangen redelijk random op in de bibliotheek, we zien geen patroon. Sommige beacons lijken er ook gewoon nog tussengeplaatst op het einde. Ze hangen ongeveer op een afstand van 3 meter van elkaar.</p>
 
 <b>UUID</b>
@@ -20,6 +20,6 @@ De beacons hangen redelijk random op in de bibliotheek, we zien geen patroon. So
 <p>Alle beacons hebben een major en minor van 0, wat ook weer anders is dan algemeen aangegeven wordt. Maar ook hier zit een bepaalde aanpak achter waarom dit zo gedaan werd.</p>
 
 <b>Vaststellingen</b> 
-<p>De bibliotheek is een volledig stalen constructie. Deze metalen constructie verstoort de signalen van de beacons. Dit verklaart waarom er zoveel beacons op hangen. <br>
-In de gegevens die we kregen van de betrokken partijen zagen we dat enkele (11) beacons niet werken. Er werd een <a href="https://lotteje.github.io/beaconblog/android/2018/03/21/werkende-beacons.html">applicatie</a> gemaakt om na te gaan welke beacons werken en welke niet. Met behulp van deze app bleek dat er 59 beacons van de 237 niet werken. Deze applicatie kan een duidelijke lijst exporteren, waarmee men meteen weet per verdiep welke beacons werken en welke niet.
+<p>De bibliotheek is een volledig stalen constructie. Deze metalen constructie verstoort de signalen van de beacons. Dit verklaart waarom er zoveel beacons ophangen. <br>
+In de gegevens, die we kregen van de betrokken partijen, zagen we dat enkele (11) beacons niet werken. Er werd een <a href="https://lotteje.github.io/beaconblog/android/2018/03/21/werkende-beacons.html">applicatie</a> gemaakt om na te gaan welke beacons werken en welke niet. Met behulp van deze app bleek dat er 59 beacons van de 237 niet werken. Deze applicatie kan een duidelijke lijst exporteren, waarmee men meteen weet per verdieping welke beacons werken en welke niet.
  </p>  
