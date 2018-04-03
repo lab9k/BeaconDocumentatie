@@ -8,9 +8,12 @@ author: lotte_jespers
 # Informatie over de beacons algemeen
 
 <p>Een beacon is een draadloos apparaat op batterijen dat signalen uitzendt via bluetooth. Smartphones kunnen deze signalen ontvangen tot op een afstand van 70 meter.</p>
+![Beacons](https://marketingland.com/wp-content/ml-loads/2015/09/Screen-Shot-2015-09-28-at-9.00.24-PM-800x596.png)
 
 <p>Beacons worden vooral gebruikt bij winkels om klanten te adverteren als ze binnen de range van de beacon komen. Natuurlijk moeten klanten dan wel hun applicatie gedownload hebben en steeds hun bluetooth aan hebben staan. <br>
 De beacon wordt vooral gebruikt in de retail maar er zijn zeker ook andere toepassingen. Zo kan een beacon specifieke informatie geven bij elk kunstwerk in een museum. De beacon kan ook dienen als hotelsleutel, zo wordt de deur ontgrendeld eens je in de buurt komt. Ze worden ook gebruikt voor indoorlocalisatie en mensen te begeleiden naar de juiste weg.</p>
+
+![BeaconsWerking](https://www.happiestminds.com/Insights/Beacons-technology/images1/what-beacons.png)
 
 <p>Bluetooth beacons gebruiken Bluetooth low energy proximity sensing om een universeel unieke identifier (UUID) te verzenden, deze kunnen dan opgepikt worden door een compatibele applicatie of besturingssysteem. <br>
 Het UUID, major en minor dat de beacon verstuurd, kunnen gebruikt worden om de fysieke locatie van een apparaat te bepalen, mensen te volgen of locatiegebaseerde acties op een apparaat te laten uitvoeren (zoals pushmeldingen sturen)</p>
@@ -32,6 +35,7 @@ Enkele van de waarden die men kan lezen uit het bluetooth signaal zijn:
 * TxPower
 * RSSI
 
+![BeaconsVariabelen](https://solidgeargroup.com/wp-content/uploads/2017/07/iBeacon.jpg)
 <p>Het <b>UUID</b> is hetzelfde voor alle beacons binnen dezelfde context. De major en minor hebben een verschillende waarde per beacon.<br>
 Het UUID bestaat uit 32 hexadecimale tekens, opgedeeld in 5 groepen. <br>
 Major en minor hebben een waarde tussen 0 en 65535. <b>Major</b> waarden worden gebruikt om een groep te identificeren. vb: alle beacons op eenzelfde verdieping hebben dezelfde major.<br>

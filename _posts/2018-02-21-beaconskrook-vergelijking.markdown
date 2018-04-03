@@ -21,5 +21,5 @@ De beacons hangen redelijk random op in de bibliotheek, we zien geen patroon. So
 
 <b>Vaststellingen</b> 
 <p>De bibliotheek is een volledig stalen constructie. Deze metalen constructie verstoort de signalen van de beacons. Dit verklaart waarom er zoveel beacons ophangen. <br>
-In de gegevens, die we kregen van de betrokken partijen, zagen we dat enkele (11) beacons niet werken. Er werd een <a href="https://lotteje.github.io/beaconblog/android/2018/03/21/werkende-beacons.html">applicatie</a> gemaakt om na te gaan welke beacons werken en welke niet. Met behulp van deze app bleek dat er 59 beacons van de 237 niet werken. Deze applicatie kan een duidelijke lijst exporteren, waarmee men meteen weet per verdieping welke beacons werken en welke niet.
+In de gegevens, die we kregen van de betrokken partijen, zagen we dat enkele (11) beacons niet werken. Er werd een <a target="_blank" href="https://lotteje.github.io/beaconblog/android/2018/03/21/werkende-beacons.html"> applicatie</a> gemaakt om na te gaan welke beacons werken en welke niet. Met behulp van deze app bleek dat er 59 beacons van de 237 niet werken. Deze applicatie kan een duidelijke lijst exporteren, waarmee men meteen weet per verdieping welke beacons werken en welke niet.
  </p>  
