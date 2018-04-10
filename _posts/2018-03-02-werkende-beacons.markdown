@@ -23,3 +23,4 @@ Je kan de lijsten exporteren naar een excel bestand, per verdieping of alle verd
 ![BeaconsListScreenshotExporteren](https://i.imgur.com/q8gB676m.png) ![BeaconsListScreenshotExcel](https://i.imgur.com/agVGsuTm.png)
 
 <a target="_blank" href="https://github.com/lab9k/Beacons/tree/master/Android/BeaconsList">GitHub</a>
+<a target="_blank" href="https://github.com/lab9k/BeaconDocumentatie/tree/gh-pages/apk">APK</a>
