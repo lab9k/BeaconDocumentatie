@@ -6,7 +6,7 @@ categories: android
 author: lotte_jespers
 ---
 
-# Zones detecteren op verdieping -1
+# Applicatie: Op ontdekking in de bib
 
 De kinderafdeling van de bibliotheek (verdieping -1) werd als locatie gebruikt voor deze applicatie.
 
@@ -18,4 +18,4 @@ De applicatie geeft duidelijk aan in welke zone je zit en door de procent aandui
 
 Als alle zones ontdekt werden, sluit de applicatie af met te vermelden hoe lang je erover deed om de kinderbibliotheek te ontdekken.
 
-<video src="/images/BibOntdekken.mov" width="320" height="200" controls preload></video>
+<video src="https://youtu.be/3rabObSrWQo" width="320" height="200" controls preload></video>
