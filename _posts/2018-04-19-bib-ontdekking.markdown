@@ -18,4 +18,4 @@ De applicatie geeft duidelijk aan in welke zone je zit en door de procent aandui
 
 Als alle zones ontdekt werden, sluit de applicatie af met te vermelden hoe lang je erover deed om de kinderbibliotheek te ontdekken.
 
-<video src="https://youtu.be/3rabObSrWQo" width="320" height="200" controls preload></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rabObSrWQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
