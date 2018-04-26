@@ -13,6 +13,7 @@ author: lotte_jespers
 Deze applicatie werd ontwikkeld voor de kinderafdeling in de bibliotheek, De Krook. De kinderbibliotheek werd opgedeeld in 6 zones, deze zones moeten door de kinderen ontdekt worden. De applicatie detecteert door gebruik te maken van de beacons in welke zone het kind zich bevind. 
 
 Je wordt welkom geheten en nadien heeft de applicatie jouw naam nodig, jouw score wordt bijgehouden in het scorebord. Dit scorebord wordt bijgehouden in firebase, op deze manier heeft iedereen telkens het juiste realtime scorebord. 
+![hallo]({{ site.url }}/images/bibontdekking/hallo.png)
 <img  width="200" height="150" src="BeaconDocumentatie/images/bibontdekking/hallo.png">
 <img width="200" height="150" src="BeaconDocumentatie/images/bibontdekking/naam.png">
 
