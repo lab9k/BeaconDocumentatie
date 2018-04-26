@@ -8,7 +8,7 @@ author: jeremie_van_de_walle
 
 # Werkende & niet werkende beacons
 
-![BeaconsListScreenshot](https://i.imgur.com/CDg7nvdm.png) ![BeaconsListScreenshot](https://i.imgur.com/2tVgVKAm.jpg)
+![BeaconsListScreenshot](https://i.imgur.com/XpDSl2El.jpg) ![BeaconsListScreenshot](https://i.imgur.com/cpk7sHOl.jpg)
 
 Met deze iOS applicatie kan men in de bibliotheek van Gent, de Krook, nagaan welke beacons werken en welke niet.
 

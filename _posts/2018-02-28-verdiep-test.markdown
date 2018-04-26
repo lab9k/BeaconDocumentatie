@@ -7,7 +7,7 @@ author: lotte_jespers
 ---
 # Weten op welke verdieping je bent
 
-![BeaconsVerdiepTestScreenshot](https://i.imgur.com/8WlYkQLm.png)  ![BeaconsVerdiepTestScreenshot](https://i.imgur.com/tmXwNsEm.png)
+![BeaconsVerdiepTestScreenshot](https://i.imgur.com/9dPochdl.jpg)  ![BeaconsVerdiepTestScreenshot](https://i.imgur.com/MrqykxNl.jpg)
 
 Met deze applicatie kan je rondlopen in de bibliotheek van Gent, de Krook. De applicatie zal je vertellen op welke verdieping je bent en wat er op deze verdieping te vinden is.
 

@@ -13,7 +13,7 @@ author: lotte_jespers
 <p>Beacons worden vooral gebruikt bij winkels om klanten te adverteren als ze binnen de range van de beacon komen. Natuurlijk moeten klanten dan wel hun applicatie gedownload hebben en steeds hun bluetooth aan hebben staan. <br>
 De beacon wordt vooral gebruikt in de retail maar er zijn zeker ook andere toepassingen. Zo kan een beacon specifieke informatie geven bij elk kunstwerk in een museum. De beacon kan ook dienen als hotelsleutel, zo wordt de deur ontgrendeld eens je in de buurt komt. Ze worden ook gebruikt voor indoorlocalisatie en mensen te begeleiden naar de juiste weg.</p>
 
-![BeaconsWerking](https://i.imgur.com/wlGTKqdl.jpg)
+![BeaconsWerking](https://i.imgur.com/QrSw2j2l.jpg)
 
 <p>Bluetooth beacons gebruiken Bluetooth low energy proximity sensing om een universeel unieke identifier (UUID) te verzenden, deze kunnen dan opgepikt worden door een compatibele applicatie of besturingssysteem. <br>
 Het UUID, major en minor dat de beacon verstuurd, kunnen gebruikt worden om de fysieke locatie van een apparaat te bepalen, mensen te volgen of locatiegebaseerde acties op een apparaat te laten uitvoeren (zoals pushmeldingen sturen)</p>

@@ -8,7 +8,7 @@ author: lotte_jespers
 
 # Werkende & niet werkende beacons
 
-![BeaconsListScreenshot](https://i.imgur.com/BjOs4yEm.png) ![BeaconsListScreenshot](https://i.imgur.com/Y3mnEhOm.png)
+![BeaconsListScreenshot](https://i.imgur.com/5zyGXstl.jpg) ![BeaconsListScreenshot](https://i.imgur.com/YFNkzall.jpg)
 
 Met deze android applicatie kan men in de bibliotheek van Gent, de Krook, nagaan welke beacons werken en welke niet.
 
@@ -20,6 +20,6 @@ Per verdieping is er een plattegrond te zien waar de beacons op aangegeven zijn,
 
 Je kan de lijsten exporteren naar een excel bestand, per verdieping of alle verdiepingen samen.
 
-![BeaconsListScreenshotExporteren](https://i.imgur.com/q8gB676m.png) ![BeaconsListScreenshotExcel](https://i.imgur.com/agVGsuTm.png)
+![BeaconsListScreenshotExporteren](https://i.imgur.com/wfqdwH8l.jpg) ![BeaconsListScreenshotExcel](https://i.imgur.com/DNU54HQl.jpg)
 
 <a target="_blank" href="https://github.com/lab9k/Beacons/tree/master/Android/BeaconsList">GitHub</a><br>

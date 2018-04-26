@@ -15,4 +15,4 @@ Binnen de zones bepaalde ik welke beacons kunnen gebruikt worden om toch triangu
 
 De applicatie kan binnen de 10 à 15 seconden detecteren in welke zone je staat, maar triangulatie werkt zoals verwacht niet nauwkeurig.
 
-![BeaconsZoneScreenshot](https://i.imgur.com/CXEZLNb.png)
+![BeaconsZoneScreenshot](https://i.imgur.com/AVEdrfO.png)
